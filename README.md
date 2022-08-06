@@ -2,7 +2,7 @@
 
 SwiftUI extension for animating arbitrary views using an indefinite wiggle animation like that seen in the iOS and iPadOS home screen widget pickers.
 
-![Hero Graphic](./graphic.png)
+![example animation](./tilt.gif)
 
 ## Usage
 
